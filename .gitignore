@@ -1,2 +1,2 @@
-dataset/*
+dataset/london_crime_by_lsoa.csv
 .ipynb_checkpoints*/
